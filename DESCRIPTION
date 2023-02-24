@@ -1,11 +1,25 @@
 Package: ephys.plots
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Worked Examples of Fundamental Plots for Ephys Data 
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: 
+    c(
+	  person(given = "Douglas L.",
+           family = "Altshuler",
+           role = c("edt"),
+           email = "doug@zoology.ubc.ca",
+           comment = c(ORCID = "0000-0002-1364-3617")),
+    person(given = "Vikram B.",
+           family = "Baliga",
+           role = c("aut", "cre"),
+           email = "vbaliga87@gmail.com",
+           comment = c(ORCID = "0000-0002-9367-8974"))
+           )    
+Maintainer: Vikram B Baliga <vbaliga@zoology.ubc.ca>
+Description: Vignettes that provide a walkthrough on how to produce fundamental
+    plots from electrophysiological data. Developed by the Alshuler Lab at the
+    University of British Columbia.
+License: CC BY 4.0
+URL: https://github.com/flightlab/MultiPanelPlotsWithR
 Encoding: UTF-8
 LazyData: true

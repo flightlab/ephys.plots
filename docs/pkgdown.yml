@@ -1,8 +1,13 @@
 pandoc: 2.19.2
 pkgdown: 2.0.4
 pkgdown_sha: ~
-articles: {}
-last_built: 2023-02-24T03:15Z
+articles:
+  01_raw_data_spike_sorted_traces: 01_raw_data_spike_sorted_traces.html
+  02_polar_tuning_curves: 02_polar_tuning_curves.html
+  03_raster_and_mean_spike_rate: 03_raster_and_mean_spike_rate.html
+  04_spatemp_tuning: 04_spatemp_tuning.html
+  05_histological_verification: 05_histological_verification.html
+last_built: 2023-02-24T03:39Z
 urls:
   reference: https://flightlab.github.io/ephys.plots/reference
   article: https://flightlab.github.io/ephys.plots/articles

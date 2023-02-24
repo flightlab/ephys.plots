@@ -22,10 +22,14 @@ navbar:
   components:
     articles:
       text: Vignettes
-# menu:
-#   - text: 'Part 1: Fundamentals of data wrangling in tidyverse'
-# href: articles/group-01_Fundamentals-data-wrangling-tidyverse.html
-# - text: 'Part 2: Piping and producing single-panel ggplot figures'
-# href: articles/group-02_Piping-single-panel-ggplot-figs.html
-# - text: 'Part 3: Using cowplot to construct multi-panel figures'
-# href: articles/group-03_Using-cowplot-multi-panel.html
+    menu:
+    - text: '1: Raw data and spike sorted traces'
+      href: articles/01_raw_data_spike_sorted_traces.html
+    - text: '2: Polar tuning curves'
+      href: articles/02_polar_tuning_curves.html
+    - text: '3: Raster and mean spike rate plots'
+      href: articles/03_raster_and_mean_spike_rate.html
+    - text: '4: Spatiotemporal tuning'
+      href: articles/04_spatemp_tuning.html
+    - text: '5: Histological verification'
+      href: articles/05_histological_verification.html

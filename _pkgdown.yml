@@ -1,0 +1,31 @@
+url: https://flightlab.github.io/ephys.plots/
+
+destination: docs
+
+template:
+  params:
+    bootswatch: flatly
+
+authors:
+  Douglas L. Altshuler:
+    href: https://altshuler.zoology.ubc.ca/
+  Vikram B. Baliga:
+    href: https://www.vbaliga.github.io/
+
+# reference:
+# - title: Please see Vignettes for specific walkthroughs
+
+navbar:
+  structure:
+    left:  [home, articles]
+    right: [github]
+  components:
+    articles:
+      text: Vignettes
+# menu:
+#   - text: 'Part 1: Fundamentals of data wrangling in tidyverse'
+# href: articles/group-01_Fundamentals-data-wrangling-tidyverse.html
+# - text: 'Part 2: Piping and producing single-panel ggplot figures'
+# href: articles/group-02_Piping-single-panel-ggplot-figs.html
+# - text: 'Part 3: Using cowplot to construct multi-panel figures'
+# href: articles/group-03_Using-cowplot-multi-panel.html

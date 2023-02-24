@@ -20,6 +20,6 @@ Description: Vignettes that provide a walkthrough on how to produce fundamental
     plots from electrophysiological data. Developed by the Alshuler Lab at the
     University of British Columbia.
 License: CC BY 4.0
-URL: https://github.com/flightlab/MultiPanelPlotsWithR
+URL: https://flightlab.github.io/ephys.plots/
 Encoding: UTF-8
 LazyData: true
